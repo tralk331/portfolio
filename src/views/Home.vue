@@ -124,6 +124,7 @@ export default {
                 justify-content: space-around;
                 gap: 30px;
             }
+            margin-bottom: 10px;
         }
         @media screen and (min-width: 768px){
             width: 90%;
