@@ -62,6 +62,7 @@ export default {
     .home-page{
         height: 100%;
         background-color: rgb(219, 219, 219);
+        padding-bottom: 10px;
         h1 {
             font-size: 40px;
             font-family: 'Nunito', sans-serif;
@@ -123,8 +124,9 @@ export default {
                 flex-wrap: wrap;
                 justify-content: space-around;
                 gap: 30px;
+                margin-bottom: 10px;
             }
-            margin-bottom: 10px;
+            
         }
         @media screen and (min-width: 768px){
             width: 90%;

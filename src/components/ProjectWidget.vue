@@ -18,7 +18,9 @@ export default {
 
 <style lang="scss" scoped>
     .project-widget {
-        
+        //size
+        width: 430px;
+        height: 430px;
         //look
         background-color: whitesmoke;
         border: 1px solid black;
