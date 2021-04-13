@@ -48,9 +48,9 @@ export default {
                 {
                     id: 2,
                     projectName: "Novlio",
-                    description: "A game I and some friends made as a school project",
+                    description: "A webapp for writers",
                     picturePath: "",
-                    technologies: ["C#", "Unity"]
+                    technologies: ["Angular", "Firebase"]
                 }
             ]
         }
