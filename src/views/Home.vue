@@ -47,26 +47,11 @@ export default {
                 },
                 {
                     id: 2,
-                    projectName: "Random",
-                    description: "A game I and some friends made as a school project",
-                    picturePath: "",
-                    technologies: ["C#", "Unity"]
-                },
-                {
-                    id: 3,
-                    projectName: "Random2",
-                    description: "A game I and some friends made as a school project",
-                    picturePath: "",
-                    technologies: ["C#", "Haló"]
-                },
-                {
-                    id: 4,
-                    projectName: "Random2",
+                    projectName: "Novlio",
                     description: "A game I and some friends made as a school project",
                     picturePath: "",
                     technologies: ["C#", "Unity"]
                 }
-                
             ]
         }
     }
